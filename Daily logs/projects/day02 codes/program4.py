@@ -1,6 +1,6 @@
 # inputs in python: 
 
-# input("enter ypur name : ") #syntax 
+# input("enter ypur name : ") syntax 
 
 name=input("Enter your name: ")
 print(" Welcome to python ", name )
