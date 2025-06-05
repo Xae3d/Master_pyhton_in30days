@@ -8,4 +8,4 @@ print(a-b)
 print(a*b)
 print(a/b)
 print(a%b)   #remainder
-print(a**b)  # to calci the power a^b
+print(a**b)  # to calci the power a^b 
