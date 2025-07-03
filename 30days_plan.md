@@ -10,7 +10,7 @@ This is my day-by-day Python learning roadmap. Each day I'll learn a topic, writ
 |-----|--------------------------------------------|----------|
 | 1   | Introduction, Variables, Print, Comments   | ✅ Done   |
 | 2   | Operators, Type Conversion, Input          | ✅ Done   |
-| 3   | Conditional Statements (if, elif, else)    | 🔜 Pending |
+| 3   | Conditional Statements (if, elif, else)    | ✅ Done   |
 | 4   | Loops – for, while                         | 🔜 Pending |
 | 5   | Break, Continue, Nested Loops              | 🔜 Pending |
 | 6   | Functions – def, return, arguments         | 🔜 Pending |
